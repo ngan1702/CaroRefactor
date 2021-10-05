@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/CaroRefactor/static/css/main.5ea1f5be.chunk.css",
+    "main.js": "/CaroRefactor/static/js/main.c9fd6932.chunk.js",
+    "main.js.map": "/CaroRefactor/static/js/main.c9fd6932.chunk.js.map",
+    "runtime-main.js": "/CaroRefactor/static/js/runtime-main.242cc7cd.js",
+    "runtime-main.js.map": "/CaroRefactor/static/js/runtime-main.242cc7cd.js.map",
+    "static/js/2.2f6c9564.chunk.js": "/CaroRefactor/static/js/2.2f6c9564.chunk.js",
+    "static/js/2.2f6c9564.chunk.js.map": "/CaroRefactor/static/js/2.2f6c9564.chunk.js.map",
+    "index.html": "/CaroRefactor/index.html",
+    "static/css/main.5ea1f5be.chunk.css.map": "/CaroRefactor/static/css/main.5ea1f5be.chunk.css.map",
+    "static/js/2.2f6c9564.chunk.js.LICENSE.txt": "/CaroRefactor/static/js/2.2f6c9564.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.242cc7cd.js",
+    "static/js/2.2f6c9564.chunk.js",
+    "static/css/main.5ea1f5be.chunk.css",
+    "static/js/main.c9fd6932.chunk.js"
+  ]
+}
